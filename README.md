@@ -93,4 +93,3 @@ C-Shell> bg 1                   # Resume in background
 
 ## Author
 **Inesh Shukla**
-*Systems Programmer & Software Engineer*
